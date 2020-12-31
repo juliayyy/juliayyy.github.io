@@ -15,6 +15,7 @@ layout: default
 - Language: Python
 - Co-owner: [glucn](https://github.com/glucn)
 
+
 ## Study Notes
 
 ### DataCamp
@@ -23,7 +24,11 @@ layout: default
 - EDA: [EDA in Python](https://github.com/juliayyy/DataCamp/blob/master/EDA%20in%20Python.py)
 
 #### R
+- DM with DT: [Data Manipulation with data.table in R](https://github.com/juliayyy/DataCamp/blob/master/Data%20Manipulation%20with%20data.table%20in%20R.r)
+- Joinning DT: [Joinning Data with DT in R](https://github.com/juliayyy/DataCamp/blob/master/Joinning%20Data%20with%20DT%20in%20R.r)
 
 #### SQL
+- Intermediate: [Intermediate SQL](https://github.com/juliayyy/DataCamp/blob/master/Intermediate%20SQL.sql)
+
 
 ### MBAN
