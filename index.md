@@ -7,6 +7,8 @@ layout: default
 ### Kaggle
 - Aribnb: [Who, where and what - 2019 NYC Airbnb Analysis](https://github.com/juliayyy/Kaggle-Projects/blob/main/Airbnb/who-where-and-what-2019-nyc-airb-b-analysis.ipynb)
 
+- DA Jobs: [EDA Visualization NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
+
 ### Others
 #### [Tofino](https://github.com/glucn/tofino)
 - (wip) Scrape and parse job postings, then analyze the data for information
