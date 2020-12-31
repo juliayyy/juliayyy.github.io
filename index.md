@@ -22,12 +22,18 @@ layout: default
 
 #### Python
 - EDA: [EDA in Python](https://github.com/juliayyy/DataCamp/blob/master/EDA%20in%20Python.py)
+- Data Manipulation with Pandas
+- Introduction to Data Visulization with Matplotlib
+- Introduction to Data Visualization with Seaborn
+- Intermediate Data Visualization with Seaborn
 
 #### R
 - DM with DT: [Data Manipulation with data.table in R](https://github.com/juliayyy/DataCamp/blob/master/Data%20Manipulation%20with%20data.table%20in%20R.r)
 - Joinning DT: [Joinning Data with DT in R](https://github.com/juliayyy/DataCamp/blob/master/Joinning%20Data%20with%20DT%20in%20R.r)
 
 #### SQL
+- Introduction to SQL
+- Joining data in SQL
 - Intermediate: [Intermediate SQL](https://github.com/juliayyy/DataCamp/blob/master/Intermediate%20SQL.sql)
 
 
