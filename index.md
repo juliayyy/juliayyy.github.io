@@ -9,6 +9,10 @@ layout: default
 
 - DA Jobs: [EDA Visualization and NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
 
+
+### MBAN
+- 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model
+
 ### Others
 #### [Tofino](https://github.com/glucn/tofino)
 - (wip) Scrape and parse job postings, then analyze the data for information
@@ -35,6 +39,3 @@ layout: default
 - Introduction to SQL
 - Joining data in SQL
 - Intermediate: [Intermediate SQL](https://github.com/juliayyy/DataCamp/blob/master/Intermediate%20SQL.sql)
-
-
-### MBAN
