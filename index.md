@@ -14,3 +14,16 @@ layout: default
 - (wip) Scrape and parse job postings, then analyze the data for information
 - Language: Python
 - Co-owner: [glucn](https://github.com/glucn)
+
+## Study Notes
+
+### DataCamp
+
+#### Python
+- EDA: [EDA in Python](https://github.com/juliayyy/DataCamp/blob/master/EDA%20in%20Python.py)
+
+#### R
+
+#### SQL
+
+### MBAN
