@@ -11,7 +11,8 @@ layout: default
 
 
 ### MBAN
-- 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model
+#### 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model
+- Co-author: Sheryl Huang
 
 ### Others
 #### [Tofino](https://github.com/glucn/tofino)
