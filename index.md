@@ -5,17 +5,18 @@ layout: default
 ## Personal Projects
 
 ### Kaggle
-#### Notbooks
+Notbooks:
 - Aribnb: [Who, where and what - 2019 NYC Airbnb Analysis](https://github.com/juliayyy/Kaggle-Projects/blob/main/Airbnb/who-where-and-what-2019-nyc-airb-b-analysis.ipynb)
 
 - DA Jobs: [EDA Visualization and NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
 
-#### Blog
+Blog:
 - Visulization Summary: [A Summary of Visualization Practices for Beginners](https://www.kaggle.com/discussion/208207)
 
 
 ### MBAN
 - 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model
+- Language: R
 - Co-author: Sheryl Huang
 
 ### Others
