@@ -20,6 +20,9 @@ layout: default
 - Language: Python
 - Co-owner: [glucn](https://github.com/glucn)
 
+### Kaggle Blog 
+- Visulization Summary: [A Summary of Visualization Practices for Beginners](https://www.kaggle.com/discussion/208207)
+
 
 ## Study Notes
 
@@ -40,3 +43,4 @@ layout: default
 - Introduction to SQL
 - Joining data in SQL
 - Intermediate: [Intermediate SQL](https://github.com/juliayyy/DataCamp/blob/master/Intermediate%20SQL.sql)
+
