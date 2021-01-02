@@ -11,7 +11,7 @@ layout: default
 - DA Jobs: [EDA Visualization and NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
 
 #### Blog
-Visulization Summary: [A Summary of Visualization Practices for Beginners](https://www.kaggle.com/discussion/208207)
+- Visulization Summary: [A Summary of Visualization Practices for Beginners](https://www.kaggle.com/discussion/208207)
 
 
 ### MBAN
