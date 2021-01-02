@@ -9,6 +9,9 @@ layout: default
 
 - DA Jobs: [EDA Visualization and NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
 
+#### Blog
+Visulization Summary: [A Summary of Visualization Practices for Beginners](https://www.kaggle.com/discussion/208207)
+
 
 ### MBAN
 - 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model
@@ -19,9 +22,6 @@ layout: default
 - (wip) Scrape and parse job postings, then analyze the data for information
 - Language: Python
 - Co-owner: [glucn](https://github.com/glucn)
-
-### Kaggle Blog 
-- Visulization Summary: [A Summary of Visualization Practices for Beginners](https://www.kaggle.com/discussion/208207)
 
 
 ## Study Notes
