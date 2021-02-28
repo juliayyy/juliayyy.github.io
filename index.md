@@ -9,7 +9,7 @@ layout: default
 - Aribnb: [Who, where and what - 2019 NYC Airbnb Analysis](https://github.com/juliayyy/Kaggle-Projects/blob/main/Airbnb/who-where-and-what-2019-nyc-airb-b-analysis.ipynb)
 - DA Jobs: [EDA Visualization and NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
 
-Blog:
+### Tech Blog:
 - Visulization Summary: [A Summary of Visualization Practices for Beginners](https://medium.com/analytics-vidhya/a-summary-of-visualization-practices-for-beginners-8e921a90f8b8)
 - EDA Summary: [Compare & Contrast: Exploration of Datasets with Many Features](https://levelup.gitconnected.com/compare-contrast-eda-of-datasets-with-many-features-f9665da15132)
 
