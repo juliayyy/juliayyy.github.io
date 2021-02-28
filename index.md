@@ -21,9 +21,8 @@ Blog:
 - 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model
 - Language: R
 
-- Clinic Staff Assignment Solution
+- Clinic Staff Assignment Solution](https://github.com/juliayyy/MBAN-coursework/tree/master/BAMS%20508%20Optimization)
 - Language & Tool: Python (Gurobi) & Excel
-- [Clinic Staff Assignment Solution](https://github.com/juliayyy/MBAN-coursework/tree/master/BAMS%20508%20Optimization)
 
 ### Others
 #### [Tofino](https://github.com/glucn/tofino)
