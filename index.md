@@ -5,8 +5,6 @@ layout: default
 ## Personal Projects
 
 ### Kaggle
-Notbooks:
-
 - Boston House Price: [House Price: score 0.12229, top 9%](https://github.com/glucn/kaggle/blob/main/House_Prices/notebook/house-price.ipynb)
 - Aribnb: [Who, where and what - 2019 NYC Airbnb Analysis](https://github.com/juliayyy/Kaggle-Projects/blob/main/Airbnb/who-where-and-what-2019-nyc-airb-b-analysis.ipynb)
 - DA Jobs: [EDA Visualization and NLP on US Data Analyst Jobs](https://github.com/juliayyy/Kaggle-Projects/blob/main/DA%20Jobs/eda-visualization-nlp-on-us-data-analyst-jobs%20(1).ipynb)
@@ -17,7 +15,7 @@ Blog:
 
 ### MBAN
 - 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model, Language: R
-- [Clinic Staff Assignment Solution](https://github.com/juliayyy/MBAN-coursework/tree/master/BAMS%20508%20Optimization) Language & Tool: Python (Gurobi) & Excel
+- [Clinic Staff Assignment Solution](https://github.com/juliayyy/MBAN-coursework/tree/master/BAMS%20508%20Optimization), Language & Tool: Python (Gurobi) & Excel
 
 ### Others
 #### [Tofino](https://github.com/glucn/tofino)
