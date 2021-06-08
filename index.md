@@ -12,7 +12,7 @@ layout: default
 ### Tech Blogs:
 - Visulization Summary: [A Summary of Visualization Practices for Beginners](https://medium.com/analytics-vidhya/a-summary-of-visualization-practices-for-beginners-8e921a90f8b8)
 - EDA Summary: [Compare & Contrast: Exploration of Datasets with Many Features](https://levelup.gitconnected.com/compare-contrast-eda-of-datasets-with-many-features-f9665da15132)
-- EDA Summary: [Build a Shiny WebApp from Scratch](https://juliay-yuxiao-yang.medium.com/build-a-shiny-webapp-from-scratch-1763894add2e)
+- Build WebApp: [Build a Shiny WebApp from Scratch](https://juliay-yuxiao-yang.medium.com/build-a-shiny-webapp-from-scratch-1763894add2e)
 
 ### MBAN Projects
 - 2019 Vancouver Housing Price Prediction using Multiple Linear Regression Model, Language: R
